@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kurento:kurento-client:6.14.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kurento-client/6.14.1-SNAPSHOT/kurento-client-6.14.1-20200910.191127-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kurento-client/6.14.1-SNAPSHOT/kurento-client-6.14.1-20200910.191127-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kurento-client/6.14.1-SNAPSHOT/kurento-client-6.14.1-20200910.191127-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
